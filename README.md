@@ -1,7 +1,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/nazmulhossainnihal/kindle-bangla-dictionary/total.svg)](https://github.com/nazmulhossainnihal/kindle-bangla-dictionary/releases/)
 # Bangla Dictionary files for Kindle
 
-## This repo contains:
+## About
 * Bangla to Bangla Dictionary
 * Bangla to English Dictionary
 * English to Bangla Dictionary
